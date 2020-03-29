@@ -13,4 +13,4 @@
      
 # custom management commands to populate data
 
-      I used factory.Faker object to create the data and  populated the database using custom commands.
+      I used factory.Faker object to create the data and  populated the database using custom commands. To check the code of populating data you could goto management/command/populate files.
