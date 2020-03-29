@@ -8,7 +8,7 @@
 
      Created two models one is for user and another for activity. In Views usin ORM queries combined the both models and showing as one field data in JSON format.
      
-     To Check the JSON : goto
+     To Check the JSON : goto http://sunil005.pythonanywhere.com/activity/
      
      
 # custom management commands to populate data
